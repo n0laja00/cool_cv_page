@@ -1,3 +1,18 @@
+# A cool CV page
+
+This React-CV page was made using react and and Tailwind. 
+
+To deploy this project, please git pull it to the folder of your choice and open in Visual Studio Code. Open the terminal and type 
+```
+  npm start
+```
+
+This should deploy the project.
+
+![image](https://user-images.githubusercontent.com/73889850/185745420-72b48061-3ba0-452f-a416-896e56cfde01.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
